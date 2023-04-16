@@ -1,0 +1,19 @@
+// Q .Create a program that asks the user to enter a name, and then prints out the name
+// with the first letter capitalized (Make your name in capitalized case).
+
+
+
+
+// TASK 04
+
+// var user = prompt("Enter your name");
+// console.log(user);
+// var letter = user.charAt(0);
+// console.log(letter);
+// console.log(letter.toUpperCase());
+// var rem = user.slice(1);
+// console.log(rem);
+// console.log(rem.toLowerCase());
+// var caps = letter.toUpperCase() + rem.toLowerCase();
+// console.log(caps);
+// alert(caps)

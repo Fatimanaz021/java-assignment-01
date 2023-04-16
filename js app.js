@@ -100,11 +100,5 @@
 // var numberOfCats = prompt("How many cats?");
 // var tooManyCats = numberOfCats + 1;
 
-Day 2 assignment
 
 
-
-var zakatPercentage = 0.025;
-var userInput = Number( prompt("Enter a number"));
-var result = (zakatPercentage)*(userInput);
-alert ("your zakat value is"+result)

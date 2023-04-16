@@ -1,0 +1,26 @@
+// Q . Create an Array that contains different products, and get input from the user in which you
+// ask your user to give the position of that element he/she wants. Now remove that Item
+// from your array and console the removed item, Also display the remaining items in the
+// array and total number of items remaining.
+
+
+
+
+
+// TASK 06
+
+
+// var products = ["Notebook","Drawings","color-pencils","color-paper","geometry-box","stickers"];
+
+// var userInput = parseInt(prompt('Enter the position of the item you want to remove (1 - ${product.length}):'));
+
+// var removedItem = products.splice(userInput - 1, 1);
+
+// console.log('The removedItem is: ${removedItem}');
+// alert('The removedItem is: ${removedItem}');
+
+// console.log('The remaining items in the array are: ${products}');
+// alert ('The remaining items in the array are: ${products}');
+
+// console.log('Total number of items remaining: ${products.length}');
+// alert('Total number of items remaining: ${products.length}');

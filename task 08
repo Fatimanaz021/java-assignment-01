@@ -1,0 +1,18 @@
+// Q . You have an array of that contains the name of Pakistani Teams Player selected for
+// WorldCup (15 Players) named as WorldCupSquad. Now tomorrow we have a match with
+// India, So make an array of final team players (11 Players) that will be playing in tomorrows
+// match from the WorldCupSquad array.
+// (Hint : Make sure it should not disturb the array that contains 15 players instead you have
+// to make a copy of this array)
+
+
+// TASK 08
+
+
+// var worldcupTeam = ["player0", "player01", "player02", "player03", "player04", "player05", "player06", "player07", "player08", "player09", "player10"];
+ 
+
+// var finalTeam = worldcupTeam.slice(3,7);
+
+// console.log(worldcupTeam);
+// console.log(finalTeam);

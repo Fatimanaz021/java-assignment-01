@@ -1,0 +1,33 @@
+// Q .calculate the fitrah amount, first, ask the user to enter the total number of family
+// members using the prompt and store the value in a variable called
+// "familyMembers". Next, ask the user to choose a fitrah method by providing them
+// options using the prompt, and store the selected method and its price in variables.
+// Then, use an if-else block to check the user's input and calculate the fitrah amount
+// by multiplying the selected method's price with the number of family members.
+// Finally, display the calculated fitrah amount using an alert message.
+
+
+
+
+// TASK 02
+
+
+// var familyMembers = parseInt(prompt("please Enter a total number of family members:"));
+
+// var fitrahMethod = prompt("choose a fitrah method: \n1. Wheat - 250rs per head \n2. Grain - 450rs per head \n3. Dates - 2100rs per head \n3. raisin - 2800rs per head");
+//  var fitrahPrices;
+
+//  if (fitrahMethod === "1"){
+//     fitrahPrices = 250;
+//  }else if (fitrahMethod === "2"){
+//     fitrahPrices = 450;
+//  }else if (fitrahMethod === "3"){
+//     fitrahPrices = 2100;
+//  }else if (fitrahMethod === "4"){
+//     fitrahPrices = 2800;
+//  }
+
+//  var fitrahAmount = familyMembers * fitrahPrices;
+
+//  alert("the fitrah amount for" + familyMembers + "family members using the" + fitrahMethod + "method is rs" + fitrahAmount + ".")
+
